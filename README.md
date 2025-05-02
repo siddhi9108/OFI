@@ -4,7 +4,7 @@
 
 This repository contains a complete implementation of four Order Flow Imbalance (OFI) features, developed as part of a trial task for a quantitative research role. The code is designed to be modular, readable, and directly executable in Google Colab.
 
-## 📁 Dataset
+## Dataset
 
 - **Input:** `first_25000_rows.csv`  
   A Level-2 limit order book (LOB) dataset containing timestamped bid/ask quotes and sizes for multiple assets.
