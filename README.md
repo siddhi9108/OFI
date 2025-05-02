@@ -11,7 +11,7 @@ This repository contains a complete implementation of four Order Flow Imbalance 
 
 ---
 
-## 📊 Implemented Features
+## Implemented Features
 
 ### 1. Best-Level OFI
 OFI computed using only the top-of-book (Level 1) bid and ask prices/sizes, following the methodology of Cont et al. (2014).
@@ -27,7 +27,7 @@ Captures cross-impact between assets by modeling the return of a target asset (e
 
 ---
 
-## 🧪 Environment
+## Environment
 
 Developed and tested in:
 - **Google Colab (Python 3.10+)**
@@ -39,5 +39,4 @@ Developed and tested in:
 
 ---
 
-## 🧱 File Structure
 
